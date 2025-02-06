@@ -59,3 +59,7 @@ This project demonstrates:
 - Add more varied sound effects
 - Create power-ups and obstacles
 - Add different game modes
+
+![Screenshot 2025-02-06 193941](https://github.com/user-attachments/assets/d5319c0e-f558-469f-ba60-9017070e145c)
+
+
